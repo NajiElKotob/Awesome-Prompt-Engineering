@@ -25,6 +25,7 @@
 
 ## Tips and Tricks
 * <|endofprompt|>
+* 12yo
 
 ## Tools
 * [Promptable](https://www.promptable.app/) - promptable.app
