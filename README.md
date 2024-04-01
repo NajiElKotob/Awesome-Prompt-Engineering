@@ -20,8 +20,12 @@
 * Input data – This could refer to any data, information, or context necessary to accurately respond to the question.
 * Examples – Possibly providing examples or guidance on how to structure the response or what kind of content might be appropriate.
 
+## Tips and Tricks
+* <|endofprompt|>
+
 ## Tools
 * [Promptable](https://www.promptable.app/) - promptable.app
 * Humanloop
 * Vellum
 * Dust
+
