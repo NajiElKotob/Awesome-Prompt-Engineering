@@ -20,6 +20,9 @@
 * Input data – This could refer to any data, information, or context necessary to accurately respond to the question.
 * Examples – Possibly providing examples or guidance on how to structure the response or what kind of content might be appropriate.
 
+## Techniques
+* **Chain of thought prompting** is an approach used primarily with AI language models and other advanced computational systems. It involves crafting prompts that encourage the system to demonstrate its reasoning process step by step, as if it were "thinking out loud." The goal is to make the AI's decision-making transparent and to follow a logical progression that leads to an answer.
+
 ## Tips and Tricks
 * <|endofprompt|>
 
