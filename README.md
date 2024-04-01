@@ -25,7 +25,8 @@
 
 ## Tips and Tricks
 * <|endofprompt|>
-* 12yo
+* 12yo "as if I am 12 years old"
+* in simple terms; briefly; in detail; like I am an expert
 
 ## Tools
 * [Promptable](https://www.promptable.app/) - promptable.app
