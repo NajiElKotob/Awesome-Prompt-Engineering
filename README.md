@@ -14,6 +14,12 @@
 * Examples: Offering examples can clarify expectations and provide a model for the structure and depth of the desired response.
 * Encouragement of Critical Thinking and Creativity: Especially in educational settings, prompts should encourage users to think critically and creatively.
 
+## Core Prompt Key Elements
+* Instructions – Likely detailing what is expected in the response to the prompt.
+* Question – The specific query or topic that needs to be addressed in the response.
+* Input data – This could refer to any data, information, or context necessary to accurately respond to the question.
+* Examples – Possibly providing examples or guidance on how to structure the response or what kind of content might be appropriate.
+
 ## Tools
 * [Promptable](https://www.promptable.app/) - promptable.app
 * Humanloop
