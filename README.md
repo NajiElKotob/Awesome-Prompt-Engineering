@@ -4,3 +4,6 @@
 
 ## Tools
 * [Promptable](https://www.promptable.app/) - promptable.app
+* Humanloop
+* Vellum
+* Dust
