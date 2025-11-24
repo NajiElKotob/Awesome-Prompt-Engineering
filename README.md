@@ -68,6 +68,11 @@ Correct Answer: B
 * Generate 3 similar MCQs about scatter plots.
 
 
+### 7. Ask for Step-by-Step Reasoning When Needed
+* Example:
+  - For tasks requiring logic or analysis: Think step-by-step and explain your reasoning before giving the final answer.
+  - Or if you want the answer ONLY: Give only the final answer without showing your reasoning.
+
 
 ### Prompts
 ```
