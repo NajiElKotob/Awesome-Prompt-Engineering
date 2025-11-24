@@ -43,6 +43,33 @@ The clearer and more structured you are, the better the output you receive.`
   - Return the answer in a Markdown table with two columns: "Issue" and "Solution".
 
 
+### Prompts
+```
+You are a senior instructor in data analytics.
+
+Goal:
+Create a short tutorial explaining the difference between descriptive and diagnostic analytics.
+
+Context:
+- Audience: absolute beginners
+- Course: Data Analytics Foundations
+- Style: simple, friendly, and practical
+
+Format:
+- Title
+- 2 key points each
+- 1 real-world example in table format
+
+Constraints:
+- Max 150 words
+- Avoid technical jargon
+
+Example style:
+“Descriptive analytics helps you understand what happened using data summaries and trends.”
+
+Now produce the tutorial.
+```
+
 -----
 
 ## Tips and Tricks
