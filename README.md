@@ -52,7 +52,7 @@ The clearer and more structured you are, the better the output you receive.`
   - Do NOT use technical formulas.
   - Provide only the final answer without explanation.
 
-### 6. Show Examples (One of the strongest tools!)
+### 6. Show Examples (One of the strongest tools)
 * Models learn patterns from examples. Even ONE example shapes the output dramatically.
 ```
 Good Example
@@ -65,6 +65,9 @@ D. Treemap
 
 Correct Answer: B
 ```
+* Generate 3 similar MCQs about scatter plots.
+
+
 
 ### Prompts
 ```
