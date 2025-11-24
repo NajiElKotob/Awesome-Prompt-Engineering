@@ -20,9 +20,14 @@ The clearer and more structured you are, the better the output you receive.`
 -----
 
 ## Prompt Engineering Tutorial
-### Set the Role (Optional but Powerful)
+### 1. Set the Role (Optional but Powerful)
 * Assigning a role helps the model understand how to behave and what tone to adopt.
 * `Example: You are a senior data analyst specializing in Power BI and data visualization.`
+
+### 2. Define the Goal / Task Clearly
+* State exactly what you want the model to do.
+* `Your task is to generate three scenario-based MCQs about financial ratios.`
+
 
 ## Tips and Tricks
 * <|endofprompt|>
