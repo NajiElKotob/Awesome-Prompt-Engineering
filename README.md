@@ -52,6 +52,20 @@ The clearer and more structured you are, the better the output you receive.`
   - Do NOT use technical formulas.
   - Provide only the final answer without explanation.
 
+### 6. Show Examples (One of the strongest tools!)
+* Models learn patterns from examples. Even ONE example shapes the output dramatically.
+```
+Good Example
+Example MCQ:
+Q: Which chart type is best for showing trends over time?
+A. Bar chart  
+B. Line chart  
+C. Pie chart  
+D. Treemap  
+
+Correct Answer: B
+```
+
 ### Prompts
 ```
 You are a senior instructor in data analytics.
