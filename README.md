@@ -20,6 +20,15 @@ The clearer and more structured you are, the better the output you receive.`
 -----
 
 ## Prompt Engineering Tutorial
+* A great prompt usually contains:
+  - Role
+  - Goal / task
+  - Context / background
+  - Format / structure
+  - Constraints / rules
+  - Examples (optional but very helpful)
+  - Iteration instructions (optional)
+
 ### 1. Set the Role (Optional but Powerful)
 * Assigning a role helps the model understand how to behave and what tone to adopt.
 * `Example: You are a senior data analyst specializing in Power BI and data visualization.`
