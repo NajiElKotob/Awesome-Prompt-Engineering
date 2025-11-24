@@ -34,8 +34,15 @@ The clearer and more structured you are, the better the output you receive.`
   - Context: I am preparing a Power BI workshop for beginners.  
   - Dataset: Financials sample.  
   - Audience: Business users with no technical background.
- 
- 
+
+### 4. Specify the Format You Want
+* Ask for the exact structure, style, or layout.
+* `Example:`
+  - Format: Title, 3 bullet points, A short example
+  - Output: Markdown, JSON, Table format, Code blocks, Step-by-step list
+  - Return the answer in a Markdown table with two columns: "Issue" and "Solution".
+
+
 -----
 
 ## Tips and Tricks
