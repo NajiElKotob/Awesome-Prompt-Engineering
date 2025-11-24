@@ -123,4 +123,5 @@ Now produce the tutorial.
 * <|endofprompt|>
 * 12yo "as if I am 12 years old"
 * in simple terms; briefly; in detail; like I am an expert
+* [Temperature and Top-P](https://learnprompting.org/docs/intermediate/configuration_hyperparameters)
 
