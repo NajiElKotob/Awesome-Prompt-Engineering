@@ -42,6 +42,15 @@ The clearer and more structured you are, the better the output you receive.`
   - Output: Markdown, JSON, Table format, Code blocks, Step-by-step list
   - Return the answer in a Markdown table with two columns: "Issue" and "Solution".
 
+### 5. Add Constraints or Rules
+* This forces the model to stay within boundaries.
+* `Examples:`
+  - Keep it under 100 words.
+  - Use simple English.
+  - Avoid jargon.
+  - Avoid repetition.
+  - Do NOT use technical formulas.
+  - Provide only the final answer without explanation.
 
 ### Prompts
 ```
