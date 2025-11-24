@@ -28,6 +28,15 @@ The clearer and more structured you are, the better the output you receive.`
 * State exactly what you want the model to do.
 * `Your task is to generate three scenario-based MCQs about financial ratios.`
 
+### 3. Provide Context (So the model thinks the way you want)
+* Always give background information, constraints, and assumptions.
+* `Example:`
+  - Context: I am preparing a Power BI workshop for beginners.  
+  - Dataset: Financials sample.  
+  - Audience: Business users with no technical background.
+ 
+ 
+-----
 
 ## Tips and Tricks
 * <|endofprompt|>
