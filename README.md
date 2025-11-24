@@ -73,6 +73,13 @@ Correct Answer: B
   - For tasks requiring logic or analysis: Think step-by-step and explain your reasoning before giving the final answer.
   - Or if you want the answer ONLY: Give only the final answer without showing your reasoning.
 
+### 8. Iterate and Refine
+* Prompt engineering is 30% writing and 70% refining.
+* `Examples:`
+  - Rewrite the answer with a more concise style.
+  - Add more technical depth.\
+  - Try again, but make it more friendly for beginners.
+
 
 ### Prompts
 ```
