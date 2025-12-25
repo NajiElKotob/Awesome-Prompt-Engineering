@@ -125,3 +125,6 @@ Now produce the tutorial.
 * in simple terms; briefly; in detail; like I am an expert
 * [Temperature and Top-P](https://learnprompting.org/docs/intermediate/configuration_hyperparameters)
 
+-----
+## References
+* [100 chats for veterans](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c) - openai.com
