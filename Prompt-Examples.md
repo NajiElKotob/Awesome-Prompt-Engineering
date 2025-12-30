@@ -84,3 +84,17 @@ The solution must be technically stable, visually polished, and robust enough fo
   - Hand-to-3D coordinate transformation
 
 ---
+
+**Objective:**  
+Build a **single-file HTML** demo of a **real-time, hand-gesture–controlled 3D particle system** using **Three.js** and **MediaPipe Hands**.
+
+**Requirements:**  
+- Render **20,000 particles** with **additive blending**, dark theme, and soft orb textures.  
+- Morph smoothly between **Sphere, Heart, Cube, and Spiral** shapes every **5–7 seconds**.  
+- Track **one mirrored hand** via webcam and map MediaPipe coordinates to the 3D scene.  
+- **Open hand:** repel particles from the hand position.  
+- **Closed fist:** attract particles toward the scene center (“black hole” effect).  
+- Use simple physics (velocity, damping) and maintain **~60 FPS**.  
+- Load libraries via **CDN only**, handle camera permissions gracefully, and include minimal UI + inline comments.
+
+---
