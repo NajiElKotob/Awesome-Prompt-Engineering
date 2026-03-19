@@ -126,6 +126,9 @@ Now produce the tutorial.
 * [Temperature and Top-P](https://learnprompting.org/docs/intermediate/configuration_hyperparameters)
 
 -----
+## Learn
+* [Optimize model performance](https://learn.microsoft.com/en-us/training/modules/explore-models-azure-ai-studio/4-improve-model)
+
 ## Papers
 * [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382) - Jules White
 
