@@ -126,5 +126,8 @@ Now produce the tutorial.
 * [Temperature and Top-P](https://learnprompting.org/docs/intermediate/configuration_hyperparameters)
 
 -----
+## Papers
+* [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382) - Jules White
+
 ## References
 * [100 chats for veterans](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c) - openai.com
