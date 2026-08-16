@@ -98,3 +98,8 @@ Build a **single-file HTML** demo of a **real-time, hand-gesture–controlled 3D
 - Load libraries via **CDN only**, handle camera permissions gracefully, and include minimal UI + inline comments.
 
 ---
+
+Analyze this conversation and create a continuation brief for another AI session. Preserve the user's intent, relevant facts, assumptions, choices, preferences, and open tasks. Remove unnecessary details. Write it as instructions/context for the next assistant, not as a summary for the user
+
+-----
+
