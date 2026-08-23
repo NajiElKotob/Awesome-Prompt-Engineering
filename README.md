@@ -119,6 +119,10 @@ Now produce the tutorial.
 
 -----
 
+## Schema-Based Prompting
+
+-----
+
 ## Tips and Tricks
 * <|endofprompt|>
 * 12yo "as if I am 12 years old"
